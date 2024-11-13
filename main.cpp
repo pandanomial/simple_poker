@@ -1,5 +1,4 @@
 /*
-
 Write a program that reads HAND_SIZE cards from the user, then analyzes the cards
 and prints out the type of poker hand that they represent. (HAND_SIZE will be a 
 global constant, typically 5, but the program must still work if it is NOT 5.)
